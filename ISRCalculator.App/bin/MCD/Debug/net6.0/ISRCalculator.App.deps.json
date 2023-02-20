@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ISRCalculator.App/1.0.0": {
+        "dependencies": {
+          "ISRCalculator.Core": "1.0.0"
+        },
+        "runtime": {
+          "ISRCalculator.App.dll": {}
+        }
+      },
+      "ISRCalculator.Core/1.0.0": {
+        "runtime": {
+          "ISRCalculator.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ISRCalculator.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ISRCalculator.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

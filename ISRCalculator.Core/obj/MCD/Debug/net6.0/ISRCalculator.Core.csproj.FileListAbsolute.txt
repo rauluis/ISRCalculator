@@ -1,0 +1,12 @@
+C:\Users\Rizo\Documents\web\ISRCalculator\ISRCalculator.Core\bin\MCD\Debug\net6.0\ISRCalculator.Core.deps.json
+C:\Users\Rizo\Documents\web\ISRCalculator\ISRCalculator.Core\bin\MCD\Debug\net6.0\ISRCalculator.Core.dll
+C:\Users\Rizo\Documents\web\ISRCalculator\ISRCalculator.Core\bin\MCD\Debug\net6.0\ISRCalculator.Core.pdb
+C:\Users\Rizo\Documents\web\ISRCalculator\ISRCalculator.Core\obj\MCD\Debug\net6.0\ISRCalculator.Core.csproj.AssemblyReference.cache
+C:\Users\Rizo\Documents\web\ISRCalculator\ISRCalculator.Core\obj\MCD\Debug\net6.0\ISRCalculator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizo\Documents\web\ISRCalculator\ISRCalculator.Core\obj\MCD\Debug\net6.0\ISRCalculator.Core.AssemblyInfoInputs.cache
+C:\Users\Rizo\Documents\web\ISRCalculator\ISRCalculator.Core\obj\MCD\Debug\net6.0\ISRCalculator.Core.AssemblyInfo.cs
+C:\Users\Rizo\Documents\web\ISRCalculator\ISRCalculator.Core\obj\MCD\Debug\net6.0\ISRCalculator.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rizo\Documents\web\ISRCalculator\ISRCalculator.Core\obj\MCD\Debug\net6.0\ISRCalculator.Core.dll
+C:\Users\Rizo\Documents\web\ISRCalculator\ISRCalculator.Core\obj\MCD\Debug\net6.0\refint\ISRCalculator.Core.dll
+C:\Users\Rizo\Documents\web\ISRCalculator\ISRCalculator.Core\obj\MCD\Debug\net6.0\ISRCalculator.Core.pdb
+C:\Users\Rizo\Documents\web\ISRCalculator\ISRCalculator.Core\obj\MCD\Debug\net6.0\ref\ISRCalculator.Core.dll
